@@ -22,6 +22,7 @@ function App() {
           count is {count}
             test
             test2
+            test3
         </button>
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
